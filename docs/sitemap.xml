@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bennkingy.github.io/example-hugo-site/about/</loc>
-    <lastmod>2020-05-19T18:52:57+01:00</lastmod>
+    <loc>https://bennkingy.github.io/example-hugo-site/</loc>
+    <lastmod>2020-05-19T18:55:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bennkingy.github.io/example-hugo-site/</loc>
+    <loc>https://bennkingy.github.io/example-hugo-site/project/</loc>
+    <lastmod>2020-05-19T18:55:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bennkingy.github.io/example-hugo-site/about/</loc>
     <lastmod>2020-05-19T18:52:57+01:00</lastmod>
   </url>
   
