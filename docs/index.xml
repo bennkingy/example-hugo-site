@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minimal</title>
-    <link>http://localhost:61861/</link>
+    <link>https://bennkingy.github.io/example-hugo-site/</link>
     <description>Recent content on Minimal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 May 2020 18:25:06 +0100</lastBuildDate>
     
-	<atom:link href="http://localhost:61861/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bennkingy.github.io/example-hugo-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>http://localhost:61861/post/first-post/</link>
+      <link>https://bennkingy.github.io/example-hugo-site/post/first-post/</link>
       <pubDate>Tue, 19 May 2020 18:25:06 +0100</pubDate>
       
-      <guid>http://localhost:61861/post/first-post/</guid>
+      <guid>https://bennkingy.github.io/example-hugo-site/post/first-post/</guid>
       <description></description>
     </item>
     
